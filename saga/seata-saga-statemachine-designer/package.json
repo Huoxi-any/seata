@@ -50,7 +50,7 @@
   "dependencies": {
     "@antv/g6": "^2.2.6",
     "codemirror": "^5.65.8",
-    "core-js": "^3.6.5",
+    "core-js": "^3.29.0",
     "lodash": "^4.17.21",
     "react-codemirror": "^1.0.0"
   },
